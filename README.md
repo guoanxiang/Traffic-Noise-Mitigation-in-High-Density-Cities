@@ -17,4 +17,4 @@ Water features significantly reduced psychoacoustic ``roughness'' (0.023 asper d
 Rooftop gardens emerged as the optimal solution for high-rise dwellings, while trees and facades remain viable ground-level options. Psychoacoustic analysis proved critical, revealing trade-offs between audibility reduction and low-frequency vibration control. These findings inform sustainable urban design in land-scarce cities, with an emphasis on urban noise mitigation.
 
 
-Note: The full research paper is available [[here]](https://github.com/guoanxiang/Traffic-Noise-Mitigation-in-High-Density-Cities/blob/main/main.pdf)
+Note: The full research paper is available [here](https://github.com/guoanxiang/Traffic-Noise-Mitigation-in-High-Density-Cities/blob/main/main.pdf)
