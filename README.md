@@ -1,5 +1,6 @@
 # Traffic Noise Mitigation in High-Density Cities
-A psychoacoustic study of trees, rooftop gardens, facades, and water features conducted in Summer 2025
+A psychoacoustic study of trees, rooftop gardens, facades, and water features conducted in Summer 2025. 
+Report submitted for the University Research Opportunity Programme (UROP). 
 
 ## Abstract
 Urban noise pollution poses critical health risks in high-density cities like Singapore, where traffic noise dominates residential environments. This study evaluates the effectiveness of four mitigation strategies. They are roadside trees, rooftop gardens, corrugated facades, and water features. Integrated acoustic (A/C/Z-weighted SPL) and psychoacoustic parameters (loudness, sharpness, roughness) are used in this evaluation. 
